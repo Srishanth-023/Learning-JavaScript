@@ -16,3 +16,29 @@ This crash course is designed to teach you the fundamentals of JavaScript in a s
 - ✅ Loops: `for` and `while`
 - ✅ Functions: Declaration, Expression, Arrow Functions
 - ✅ Objects and Arrays
+
+## 📁 Project Structure
+
+/Learning-JavaScript/
+│
+├── Functions in JS/
+│   ├── index.html
+│   └── script.js
+│
+├── Introduction/
+│   ├── index.html
+│   └── script.js
+│
+├── Logic and Control flow/
+│   ├── index.html
+│   └── script.js
+│
+├── Operations/
+│   ├── index.html
+│   └── script.js
+│
+├── Variables and Data Types/
+│   ├── index.html
+│   └── script.js
+│
+└── README.md
