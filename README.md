@@ -19,6 +19,7 @@ This crash course is designed to teach you the fundamentals of JavaScript in a s
 
 ## 📁 Project Structure
 
+```text
 /Learning-JavaScript/
 │
 ├── Functions in JS/
