@@ -49,5 +49,27 @@
 // console.log(result);
 
 
-// BOOLEAN
+// BOOLEANS
 
+//  const isCool = true;
+
+//  if (isCool){
+//     console.log('You are cool !');
+//  } else{
+//     console.log('You are not cool !!')
+//  }
+
+
+// NULL 
+
+let userName = null;
+console.log(typeof userName);
+
+
+//  UNDEFINED
+ let x;
+ console.log(typeof x);
+
+
+ // OBJECTS
+ 
