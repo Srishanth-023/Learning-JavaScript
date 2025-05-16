@@ -43,3 +43,32 @@ This crash course is designed to teach you the fundamentals of JavaScript in a s
 │   └── script.js
 │
 └── README.md
+
+## 🛠️ How to Use
+
+1. Clone this repo or download the files:
+   ```bash
+   git clone https://github.com/yourusername/javascript-crash-course.git
+   ```
+
+2. Open `index.html` in your browser.
+
+3. Edit `script.js` to practice and follow along with the tutorial.
+
+4. Use browser DevTools (`F12`) to see console output and inspect elements.
+
+---
+
+## 📌 Requirements
+
+- A modern browser (Chrome, Firefox, Edge)
+- A text editor (VS Code recommended)
+- No prior JavaScript knowledge required!
+
+---
+
+## 🙌 Credits
+
+This README and the practice code are based on the tutorial by **JavaScript Mastery**.  
+Subscribe to their channel for high-quality web development tutorials:  
+🔗 [JavaScript Mastery YouTube Channel](https://www.youtube.com/c/JavaScriptMastery)
