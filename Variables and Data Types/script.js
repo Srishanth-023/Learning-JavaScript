@@ -91,3 +91,14 @@
 
 // const date = new Date();
 // console.log(date);
+
+
+// /* JavaScript is a Dynamically typed programming language,
+//  which means that variables can hold values of any data type
+//  and can be changed at runtime. */
+
+//  let messgageAndNumber = 'Hello, World!';
+//  console.log(typeof messgageAndNumber);
+
+//  messgageAndNumber = 18;
+//  console.log(typeof messgageAndNumber);
