@@ -14,10 +14,10 @@
 
 
 
-// DATA TYPES
+// // DATA TYPES
 
 
-// STRING
+// // STRING
 
 // const singleQuotes = 'This is a string with single quotes';
 // const doubleQuotes = "This is a string with double quotes";
@@ -34,7 +34,7 @@
 // console.log(parsing);
 
 
-// NUMBERS
+// // NUMBERS
 
 // const firstNumber = 10;
 // const secondNumber = 20;
@@ -49,7 +49,7 @@
 // console.log(result);
 
 
-// BOOLEANS
+// // BOOLEANS
 
 //  const isCool = true;
 
@@ -60,16 +60,34 @@
 //  }
 
 
-// NULL 
+// // NULL 
 
-let userName = null;
-console.log(typeof userName);
-
-
-//  UNDEFINED
- let x;
- console.log(typeof x);
+// let userName = null;
+// console.log(typeof userName);
 
 
- // OBJECTS
- 
+// // UNDEFINED
+
+//  let x;
+//  console.log(typeof x);
+
+
+// // OBJECTS
+
+//  const person = {
+//     userName: 'Sri',
+//     age: 18,
+//  }
+
+//  console.log(person);
+//  console.log(person.userName);
+
+
+// // ARRAYS AND DATE --> OBJECTS
+
+// const numbers = [1, 2, 3, 4, 5];
+// console.log(numbers);
+// console.log(numbers[0]);
+
+// const date = new Date();
+// console.log(date);
